@@ -1,6 +1,6 @@
 <h2>Hello World! 🌎</h2>
 
-<img src="https://i.pinimg.com/originals/1f/20/b4/1f20b41ce1db0cbcf955afa15729f841.jpg" height="250px" width="250px" min-width="250px" max-width="250px" align="right">
+<img src="https://i.pinimg.com/originals/1f/20/b4/1f20b41ce1db0cbcf955afa15729f841.jpg" height="260px" width="260px" min-width="250px" max-width="250px" align="right">
 
 <p style="text-align: justify;">Olá! Eu sou Camila Zamarchi Bregalda, sou formada como Técnica em Informática pelo Instituto Federal Farroupilha e futura Engenheira de Software formada pela Universidade Tecnológica Federal do Paraná. Sou uma pessoa séria e centrada, sempre em busca de entregar o melhor resultado possível nos projetos que inicio. <br>
   
