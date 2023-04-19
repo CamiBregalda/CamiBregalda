@@ -47,10 +47,10 @@
 <table>
     <tr>
       <td>
-        <img height="160cm" width="460cm" src="https://github-readme-stats.vercel.app/api?username=CamiBregalda&show_icons=true&theme=transparent&include_al1-commits-true&count_private=true"/>
+        <img height="160cm" width="460cm" src="https://github-readme-stats.vercel.app/api?username=CamiBregalda&show_icons=true&theme=transparent"/>
       </td>
       <td>
-        <img height="160cm" width="500cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiBregalda&layout=compact&langs_count=16&theme=transparent"/>
+            <img height="160cm" width="500cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiBregalda&layout=compact&theme=transparent"/>
       </td>
     </tr>
 </table>
