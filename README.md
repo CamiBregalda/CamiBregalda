@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Gmail-292626?style=for-the-badge&logo=gmail&logoColor=FFF&border-width:3px&border-color:#ffffff" target="-blank">
   </a>
   
-  <a href="https://www.linkedin.com/in/camila-zamarchi-bregalda/" target="_blank">
+  <a href="https://www.linkedin.com/in/camila-bregalda/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-292626?style=for-the-badge&logo=linkedin&logoColor=white" target="-blank">
   </a>
   
