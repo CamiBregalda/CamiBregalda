@@ -2,7 +2,7 @@
 
 <img src="https://i.pinimg.com/originals/1f/20/b4/1f20b41ce1db0cbcf955afa15729f841.jpg" height="245px" width="225px" min-width="235px" max-width="245px" align="right">
 
-<p style="text-align: justify;">Olá! Eu sou Camila Zamarchi Bregalda, sou formada como Técnica em Informática pelo Instituto Federal Farroupilha e futura Engenheira de Software formada pela Universidade Tecnológica Federal do Paraná. Sou uma pessoa séria e centrada, sempre em busca de entregar o melhor resultado possível nos projetos que inicio. Abaixo, deixo algumas curiosidades sobre mim:</p>
+<p style="text-align: justify;">Olá! Eu sou Camila Zamarchi Bregalda, sou formada como Técnica em Informática pelo Instituto Federal Farroupilha e futura Engenheira de Software pela Universidade Tecnológica Federal do Paraná. Sou uma pessoa séria e centrada, sempre em busca de entregar o melhor resultado possível nos projetos que inicio. Abaixo, deixo algumas curiosidades sobre mim:</p>
 
 - 🌱 Atualmente, estou estudando sobre muitas coisas, mas meu foco se dá principalmente em me aperfeiçoar cada vez mais na linguagem Java e no framework Spring Boot...
 - 📖 Sou apaixonada por livros desde nova, no momento estou lendo sobre Clean Code...
